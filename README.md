@@ -14,6 +14,8 @@
 
 <hr style="width:60%; margin:auto; border:0; height:1px; background:#e0e0e0;">
 
+<h3 align="center">Full-Stack Developer</h3>
+
 <p align="center">
 Modern full-stack mimarileri; web, mobil, veri ve yapay zeka teknolojileriyle
 birleştirerek yenilikçi çözümler üretiyorum.<br/>
@@ -28,7 +30,12 @@ haline getirmiş, çözüm odaklı bir yazılım mühendisiyim.
 </p>
 
 <p align="center">
-  📧 <a href="mailto:ymelifergen@gmail.com">ymelifergen@gmail.com</a> &nbsp; | &nbsp;
-  🔗 <a href="https://www.linkedin.com/in/elifergenn/">LinkedIn</a>
+  <a href="mailto:ymelifergen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/elifergenn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+>
 

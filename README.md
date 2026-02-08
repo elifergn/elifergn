@@ -26,8 +26,20 @@ haline getirmiş, çözüm odaklı bir yazılım mühendisiyim.
 <h3 align="center">🚀 Teknolojiler</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,react,flutter,js,ts,nodejs,python,mysql,mongodb,html,css,vscode,git" />
+  <!-- SATIR 1 -->
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,python,dart" />
 </p>
+
+<p align="center">
+  <!-- SATIR 2 -->
+  <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,mysql,mongodb,html" />
+</p>
+
+<p align="center">
+  <!-- SATIR 3 -->
+  <img src="https://skillicons.dev/icons?i=css,git,vscode,firebase,github,postgres" />
+</p>
+
 
 <p align="center">
   <a href="mailto:ymelifergen@gmail.com">
